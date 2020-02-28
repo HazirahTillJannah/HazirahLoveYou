@@ -1,5 +1,5 @@
 
-echo: HI  (That You know That I love You)
+echo: HI  Hazirah Ini Crush Kamu PacmanSmkPlm Hacker
 
 echo: Kamu mungkin cintakan dia tapi dia mungkin mempunyai orang lain
 
