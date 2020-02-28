@@ -1,8 +1,6 @@
-echo:username: Pacman
-echo:password: LoveHazirah
-echo:Whatapps:0193919210
-echo:Ig:pitpanzz__
+
 echo: HI  (That You know That I love You)
+clear
 echo: Kamu mungkin cintakan dia tapi dia mungkin mempunyai orang lain
 clear 
 echo:Cinta kamu mungkin bertepuk sebelah tangan 
