@@ -1,14 +1,20 @@
 
-echo: HI  Hazirah Ini Crush Kamu PacmanSmkPlm Hacker
+echo: Assalamualaikum Hazirah Ini Crush Kamu PacmanSmkPlm Hacker
+clear
 
-echo: Kamu mungkin cintakan dia tapi dia mungkin mempunyai orang lain
+echo: Saya cintakan kamu tapi kamu mungkin mempunyai orang lain
+clear
 
-echo:Cinta kamu mungkin bertepuk sebelah tangan 
+echo:Cinta saya mungkin bertepuk sebelah tangan 
+clear
 
-echo:Tak mengapa dia mungkin tidak mengenal kamu dgn ckp 
+echo:Tak mengapa kamu mungkin tidak mengenal saya dgn cukup
+clear
 
-echo:Tak pa....
+echo:Kalau kamu cintakan saya saya cintakan kamu juga
+clear
 
-echo:Kita tunggu Satu hari nanti....
+echo:Aku tunggu Satu hari nanti untuk menyarungkan cincinku pada mu...
+clear
 
 Guna tools aku sebaik mungkin
